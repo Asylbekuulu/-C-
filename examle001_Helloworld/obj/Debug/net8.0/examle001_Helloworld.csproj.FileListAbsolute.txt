@@ -1,0 +1,14 @@
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/bin/Debug/net8.0/examle001_Helloworld
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/bin/Debug/net8.0/examle001_Helloworld.deps.json
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/bin/Debug/net8.0/examle001_Helloworld.runtimeconfig.json
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/bin/Debug/net8.0/examle001_Helloworld.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/bin/Debug/net8.0/examle001_Helloworld.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.AssemblyInfoInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.AssemblyInfo.cs
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.csproj.CoreCompileInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/refint/examle001_Helloworld.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/examle001_Helloworld.genruntimeconfig.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Лекция №1/examle001_Helloworld/obj/Debug/net8.0/ref/examle001_Helloworld.dll
